@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HARI HARA SUDHAN N</h1>
 <h3 align="center">An aspiring developer from India, currently focused on learning and enhancing my technical abilities.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harii00&label=Profile%20views&color=0e75b6&style=flat" alt="harii00" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=harii00&label=Profile%20views&color=0e75b6&style=flat" alt="harii00" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harii00" alt="harii00" /></a> </p>
 
